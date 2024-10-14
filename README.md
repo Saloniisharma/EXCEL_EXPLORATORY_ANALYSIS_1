@@ -93,7 +93,7 @@ To summarize the data meaningfully, I created several pivot tables. These tables
 
    - First, I generated a pivot table to calculate the average income for customers who purchased a bike versus those who didn’t, broken down by gender. This helped us see how income levels play a role in the decision to purchase a bike.
 
-   ![Snap_1](https://github.com/Saloniisharma/EXCEL_PROJECTS/blob/55990e64dc706dba021d366e1af8d035f9a4683b/pivot%20table%201.png)
+![Snap_1](https://github.com/Saloniisharma/EXCEL_PROJECTS/blob/55990e64dc706dba021d366e1af8d035f9a4683b/pivot%20table%201.png)
 
 - Second, I created a pivot table to analyze the customer age brackets. Here, we wanted to understand which age groups—adolescent, middle-aged, or older—were more likely to purchase a bike.
 
@@ -133,10 +133,9 @@ All of these slicers are linked to every chart in the dashboard, so when a filte
 
 4. Finally, I tested the dashboard by applying the slicers and ensuring that all charts respond correctly to the filters. For example, if I filter by married customers or focus on North America, the entire dashboard updates to reflect those specific subsets of data.
 
-Snap the dashboard ,
+Snap of the dashboard ,
 
 ![Snap_4](https://github.com/Saloniisharma/EXCEL_PROJECTS/blob/d9f4efbca72192ddf711d1466f7ab54e99c85a98/Dashboard.jpg)
 
 This project successfully cleaned, analyzed, and visualized customer data to uncover insights into bike purchasing behavior. Through a well-structured dashboard, it highlights key trends related to income, age, gender, commute patterns, and regional differences, providing a user-friendly tool for exploring these factors. The outcome equips decision-makers with valuable information to tailor marketing strategies, improve customer targeting, and drive sales growth.
-
 
